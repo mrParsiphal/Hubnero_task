@@ -1,0 +1,14 @@
+[
+  {
+    "model": "api_v1.ExchangeRates",
+    "pk": 1,
+    "fields":
+    {
+      "base": "USD",
+      "relative": "RUB",
+      "value": 98.96645,
+      "date_update": "2024-11-14T12:22:15",
+      "date": "2024-11-14T12:22:17.882"
+    }
+  }
+]
